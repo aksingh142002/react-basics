@@ -1,7 +1,7 @@
 
 import './App.css';
 import { Employ } from './Employ';
-const name = "Akash";
+
 
 function App() {
   return (
